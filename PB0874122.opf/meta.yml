@@ -44,3 +44,8 @@ source_metadata:
       parent: Sūtras
 created_at: '2022-03-01T06:06:38.016293'
 last_modified_at: '2022-03-01T06:06:38.016295'
+statistics:
+  total_words: 21350
+  total_non_words: 4137
+quality:
+  non_words_ratio: 0.19
